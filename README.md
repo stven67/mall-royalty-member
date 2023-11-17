@@ -1,0 +1,1 @@
+# mall-royalty-member
